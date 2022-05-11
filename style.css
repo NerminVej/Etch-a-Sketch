@@ -1,14 +1,9 @@
 #gridContainer{
     display:flex;
-    justify-content:space-between;
     width:960px;
+    
 }
 
 #cells{
-    display:flex;
-    margin:10px;
     padding:10px;
-}
-button{
-    
 }
